@@ -4,4 +4,4 @@ file_path = "test.txt"
 with open(file_path, "w", encoding="utf-8") as file:
     file.write("Hello world")
 
-print(f"File '{file_path}' has been created and written successfully.")
+print(f"File '{file_path}' has been cre ated and writ ten successfully.")
